@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ce960b6.css",
+    "main.js": "/static/js/main.911499b1.js",
+    "static/media/swiper-4.jpg": "/static/media/swiper-4.19ddb3bf2baf19c0fd5a.jpg",
+    "static/media/avatar-image-one.png": "/static/media/avatar-image-one.9e5459434517d972a1f4.png",
+    "static/media/title-icon.png": "/static/media/title-icon.e58d024483e80512bd6a.png",
+    "static/media/avatar-image-two.png": "/static/media/avatar-image-two.f6fce085137ab8faed47.png",
+    "static/media/news-one.png": "/static/media/news-one.d8fc846293a37e4d35dd.png",
+    "static/media/Montserrat-SemiBold.ttf": "/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
+    "static/media/Montserrat-Light.ttf": "/static/media/Montserrat-Light.6fcc9263a21be961d246.ttf",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "static/media/Montserrat-ExtraLight.ttf": "/static/media/Montserrat-ExtraLight.ef3c777f702c89a0f300.ttf",
+    "static/media/secondblock-image.png": "/static/media/secondblock-image.4bb7643963fde463c115.png",
+    "static/media/swiper-1.jpg": "/static/media/swiper-1.5020ab81f8b042de60c3.jpg",
+    "static/media/swiper-3.jpg": "/static/media/swiper-3.d047a36764dc09e10122.jpg",
+    "static/media/swiper-2.jpg": "/static/media/swiper-2.ce5eae6ba68032d35368.jpg",
+    "static/media/secondblock-li1.svg": "/static/media/secondblock-li1.88b9ec10c1461d7b5f807378027ed9ff.svg",
+    "static/media/viber-icon.svg": "/static/media/viber-icon.d9ffb6f04c5917620b70fa84253ea07b.svg",
+    "static/media/secondblock-li4.svg": "/static/media/secondblock-li4.980afbf7a7db1bde66c27fd37d14156a.svg",
+    "static/media/secondblock-li3.svg": "/static/media/secondblock-li3.c5f6c376d31a2c0c5f895fa4ba707808.svg",
+    "static/media/secondblock-li2.svg": "/static/media/secondblock-li2.178a50a1308277a485049e877a7f66a8.svg",
+    "static/media/address-icon.svg": "/static/media/address-icon.606e302f1befbbee47991f439a08a5a3.svg",
+    "static/media/vk-icon.svg": "/static/media/vk-icon.61d25312ae01cc1283bdec29069d2ba2.svg",
+    "static/media/whatsapp-icon.svg": "/static/media/whatsapp-icon.4841fa2404cd0b4e1300daa89fbc8f94.svg",
+    "index.html": "/index.html",
+    "static/media/telegram-icon.svg": "/static/media/telegram-icon.8f2a9958b2da1e3f15e3b572888af7fb.svg",
+    "main.1ce960b6.css.map": "/static/css/main.1ce960b6.css.map",
+    "main.911499b1.js.map": "/static/js/main.911499b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ce960b6.css",
+    "static/js/main.911499b1.js"
+  ]
+}
